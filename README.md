@@ -124,3 +124,38 @@ Ce dépôt contient le code source du site, l'architecture des pages, ainsi que 
 ├── direction.php  
 ├── index.php  
 └── Logs.php  
+
+## Direction :
+L'utilisateur peut voir les commandes passés donc celles qui ont été validées par le caissier avec toutes les informations nécéssaires, avec les matières premières achetés et le bénéfice total.
+<div>
+  <div style="display: inline-block;">
+    <img src="https://github.com/user-attachments/assets/ff705df1-ebbb-46ce-892f-505741e90739" alt="Description de l'image"/>
+    <img src="https://github.com/user-attachments/assets/7f59376f-1425-4dbe-90cb-14c12ebfcd84" alt="Description de l'image" width="400/>
+    </div>
+</div>
+
+## Caissier :
+Le caissier peut ajouter un utilisateur, peut confirmer une commande et voir les réservation des clients en attente.
+  <div style="display: inline-block;">
+    <img src="https://github.com/user-attachments/assets/9881eb4e-d4ac-4a23-a3e4-0fe8e8bac6d3" alt="Description de l'image" width="600/>
+    <img src="https://github.com/user-attachments/assets/6dfadde7-a4a0-4ad7-a675-fdbe7a5807e4" alt="Description de l'image" width="600/>
+    <img src="https://github.com/user-attachments/assets/318e4f44-b6e3-4b54-8662-dcc9abdc83cd" alt="Description de l'image" width="600/>
+  </div>
+</div>
+
+## Client : 
+Le client peut réserver un produit, accéder à la liste des produits et suivre ses commandes.
+  <div style="display: inline-block;">
+    <img src="https://github.com/user-attachments/assets/0bf4f6b2-14a6-46ab-8c22-b4342ab0c56b" alt="Description de l'image" width="800/>
+    <img src="https://github.com/user-attachments/assets/f52b718a-c305-417f-bb38-f054d091d756" alt="Description de l'image" width="800/>
+    <img src="https://github.com/user-attachments/assets/b48114be-597c-4ca1-8ee3-c46642f2ca21" alt="Description de l'image" width="800/>
+    <img src="https://github.com/user-attachments/assets/db109025-3ed3-4177-8b81-76851c2dd917" alt="Description de l'image" width="800/>
+    <img src="https://github.com/user-attachments/assets/79d67f87-5833-477a-93d0-d31ec30265f8" alt="Description de l'image" width="800/>
+  </div>
+</div>
+
+
+  
+
+
+
