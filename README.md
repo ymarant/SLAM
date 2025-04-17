@@ -190,12 +190,10 @@ Il peut également modifier ou supprimer les utilisateurs.
 
 La direction peut consulter les achats de matières premières et les ventes de produits, avec filtres par date.
 
-<img src="https://github.com/user-attachments/assets/2e875e72-d99b-4f7d-855c-3b47b4e02b01" alt="Achats et Ventes"/>
 <img src="https://github.com/user-attachments/assets/6a92e475-c306-473f-b41e-09d6bef2d75f" alt="Filtrage Date" width="600"/>
 
 Un calcul des dépenses et bénéfices est également disponible.
 
-<img src="https://github.com/user-attachments/assets/ddbda3c8-1fa5-405f-b9f2-aa27c464c033" alt="Calcul Dépenses"/>
 <img src="https://github.com/user-attachments/assets/17e5ea00-18e7-4438-a320-98e3b4c79624" alt="Bilan Financier" width="400"/>
 
 ---
