@@ -158,21 +158,18 @@ Si les identifiants sont valides, l'ID utilisateur est stocké dans la session.
 
 L'utilisateur remplit un formulaire, un calcul est ensuite effectué et les résultats sont affichés.
 
-<img src="https://github.com/user-attachments/assets/49c2a146-6a10-41c8-8827-3e923c2ba097" alt="Calcul Brassage" width="600"/>
 <img src="https://github.com/user-attachments/assets/5237355e-3dc0-450a-8b5a-a88742a04d74" alt="Résultats Brassage" width="500"/>
 
 ### 📦 **Gestion des matières premières**
 
 Le brasseur peut ajouter, modifier ou supprimer les stocks.
 
-<img src="https://github.com/user-attachments/assets/c3b7a3dd-65d0-4a4d-9ac8-1b6b6699aa17" alt="Stocks MP" width="600"/>
 <img src="https://github.com/user-attachments/assets/53cbfb59-a5ef-4ee5-aa12-e05c0b6d0d23" alt="Gestion MP" width="500"/>
 
 ### 🛒 **Gestion des produits finis**
 
 Le brasseur peut également gérer les produits finis prêts à la vente.
 
-<img src="https://github.com/user-attachments/assets/87a8c611-8293-4265-9b4b-e14450b91de3" alt="Produits Finis" width="600"/>
 <img src="https://github.com/user-attachments/assets/bad84a5b-be7e-41c0-b827-95b69b3396c8" alt="Gestion Produits" width="500"/>
 
 ---
