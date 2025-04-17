@@ -259,6 +259,7 @@ Un affichage des logs et aussi present dans la page admin.(Evan)
 <img src="https://github.com/user-attachments/assets/58c88fa9-16c0-4b78-9576-6aa15122b86c" alt="Ajout Utilisateur" width="600"/>
 <img src="https://github.com/user-attachments/assets/9e0a18bb-f598-494d-a9ab-e3a29756a6d6" alt="Ajout Utilisateur" width="600"/>
 
+---
 
 # 🔎 **Sources**
 
@@ -267,6 +268,8 @@ Documentation fichier txt : https://www.conseil-webmaster.com/formation/php/10-m
 Template CSS : https://www.w3schools.com/w3css/tryw3css_templates_cafe.htm  
 Les bases PHP et html : Cours Thibault Vinchent EPSI https://www.je-code.com/  
 IA : https://chat.deepseek.com/ ou https://chatgpt.com/
+
+---
 
 ## **Mes vidéos**
 Lien vers mes vidéos :
