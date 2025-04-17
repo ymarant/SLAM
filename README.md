@@ -147,8 +147,8 @@ L'utilisateur remplit le formulaire de contact. Une fois soumis, les données so
 
 ## 🔐 **Connexion**
 
-L'utilisateur remplit le formulaire de connexion. Le mot de passe est hashé et comparé avec la base de données.(Evan)
-Si les identifiants sont valides, l'ID utilisateur est stocké dans la session.
+L'utilisateur remplit le formulaire de connexion. Le mot de passe est hashé et comparé avec la base de données.
+Si les identifiants sont valides, l'ID utilisateur est stocké dans la session.(Evan)
 
 <img src="https://github.com/user-attachments/assets/08b3e02e-4e8a-47d6-b00a-e9fb36e9a3c9" alt="Vérification Session" width="500"/>
 
@@ -156,7 +156,7 @@ Si les identifiants sont valides, l'ID utilisateur est stocké dans la session.
 
 ## 🍺 **Brasserie**
 
-L'utilisateur remplit un formulaire, un calcul est ensuite effectué et les résultats sont affichés. (Yohann)
+L'utilisateur remplit un formulaire, un calcul est ensuite effectué et les résultats sont affichés.(Yohann)
 
 <img src="https://github.com/user-attachments/assets/5237355e-3dc0-450a-8b5a-a88742a04d74" alt="Résultats Brassage" width="500"/>
 
@@ -176,7 +176,7 @@ Le brasseur peut également gérer les produits finis prêts à la vente.(Yohann
 
 ## ⚙️ **Admin**
 
-L'administrateur peut ajouter un utilisateur. Le mot de passe par défaut est `1234` (hashé en MD5). (Evan)
+L'administrateur peut ajouter un utilisateur. Le mot de passe par défaut est `1234` (hashé en MD5).(Evan)
 
 <img src="https://github.com/user-attachments/assets/5c7278ee-8070-4697-9f96-3b818529e373" alt="Utilisateur Créé" width="800"/>
 
