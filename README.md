@@ -7,7 +7,7 @@ Ce dépôt contient le code source du site, l'architecture des pages, ainsi que 
 
 - 🌐 Site : http://evan-epsi.rf.gd/  
 - 📌 Trello : [Lien vers le Trello](https://trello.com/invite/b/67b482c7e2d7bd00ed8d61ba/ATTI356f235c4f3a28d8b89fcd92086fe6874A074E68/brasserie)  
-- 💾 GitHub : https://github.com/evandeveer/brasserie
+- 💾 GitHub : https://github.com/ymarant/SLAM
 
 ## 🔗 Technologies utilisées
 
