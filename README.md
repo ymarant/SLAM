@@ -178,12 +178,10 @@ Le brasseur peut également gérer les produits finis prêts à la vente.
 
 L'administrateur peut ajouter un utilisateur. Le mot de passe par défaut est `1234` (hashé en MD5).
 
-<img src="https://github.com/user-attachments/assets/11af3073-f3ff-4009-8fe2-bfb0589b2b39" alt="Ajout Utilisateur" width="800"/>
 <img src="https://github.com/user-attachments/assets/5c7278ee-8070-4697-9f96-3b818529e373" alt="Utilisateur Créé" width="800"/>
 
 Il peut également modifier ou supprimer les utilisateurs.
 
-<img src="https://github.com/user-attachments/assets/0d5bfd2c-612b-4960-bd37-2464b248259f" alt="Modification Utilisateur" width="800"/>
 <img src="https://github.com/user-attachments/assets/f31cc96c-e57b-4fb3-bf4f-d7c90bb9fb4c" alt="Suppression Utilisateur" width="800"/>
 
 ---
