@@ -206,12 +206,10 @@ Le client peut consulter ses points de fidélité.
 
 Voir les produits disponible.
 
-<img src="https://github.com/user-attachments/assets/3bcd3841-6ef6-423f-89dc-aff3fb583540" alt="Fidélité Client" width="600"/>
 <img src="https://github.com/user-attachments/assets/2fe0374b-356d-4da3-b8a9-561cb6e56d93" alt="Points Fidélité" width="600"/>
 
 Passer une reservation.
 
-<img src="https://github.com/user-attachments/assets/75527b61-78cc-4deb-99f6-bb9c8713eb0a" alt="Fidélité Client" width="600"/>
 <img src="https://github.com/user-attachments/assets/2388b7ea-3480-4490-bcfd-bab3bd1eb030" alt="Points Fidélité" width="600"/>
 
 
