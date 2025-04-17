@@ -150,8 +150,6 @@ L'utilisateur remplit le formulaire de contact. Une fois soumis, les données so
 L'utilisateur remplit le formulaire de connexion. Le mot de passe est hashé et comparé avec la base de données.  
 Si les identifiants sont valides, l'ID utilisateur est stocké dans la session.
 
-<img src="https://github.com/user-attachments/assets/67e756e2-4994-4c7e-a80f-9d3f618205ae" alt="Formulaire Connexion"/>
-<img src="https://github.com/user-attachments/assets/0fe2a821-5cc4-458b-9860-4305cde83d8c" alt="Hashage Mot de Passe"/>
 <img src="https://github.com/user-attachments/assets/08b3e02e-4e8a-47d6-b00a-e9fb36e9a3c9" alt="Vérification Session" width="500"/>
 
 ---
