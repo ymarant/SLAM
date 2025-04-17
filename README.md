@@ -141,7 +141,6 @@ Ce dépôt contient le code source du site, l'architecture des pages, ainsi que 
 
 L'utilisateur remplit le formulaire de contact. Une fois soumis, les données sont enregistrées en base de données.
 
-<img src="https://github.com/user-attachments/assets/6b10ec47-3b53-43ef-8a98-80b889121000" alt="Formulaire Contact"/>
 <img src="https://github.com/user-attachments/assets/b430a63d-eaf3-48c5-810e-569c5067490b" alt="Enregistrement Contact" width="400"/>
 
 ---
