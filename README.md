@@ -141,7 +141,7 @@ Ce dépôt contient le code source du site, l'architecture des pages, ainsi que 
 
 L'utilisateur remplit le formulaire de contact. Une fois soumis, les données sont enregistrées en base de données.(Evan)
 
-[Lien vers le code](https://github.com/evandeveer/brasserie/blob/main/index.php#L331)  
+[Lien vers le code](https://github.com/ymarant/SLAM/blob/main/index.php#L331)  
 <img src="https://github.com/user-attachments/assets/b430a63d-eaf3-48c5-810e-569c5067490b" alt="Enregistrement Contact" width="400"/>
 ---
 
@@ -150,7 +150,7 @@ L'utilisateur remplit le formulaire de contact. Une fois soumis, les données so
 L'utilisateur remplit le formulaire de connexion. Le mot de passe est hashé et comparé avec la base de données.
 Si les identifiants sont valides, l'ID utilisateur est stocké dans la session.(Evan)
 
-[Code du formulaire](https://github.com/evandeveer/brasserie/blob/main/connexion.php#L60) [Code redirection](https://github.com/evandeveer/brasserie/blob/main/connexion.php#L60)  
+[Code du formulaire](https://github.com/ymarant/SLAM/blob/main/connexion.php#L60) [Code redirection](https://github.com/evandeveer/brasserie/blob/main/connexion.php#L60)  
 
 <img src="https://github.com/user-attachments/assets/08b3e02e-4e8a-47d6-b00a-e9fb36e9a3c9" alt="Vérification Session" width="500"/>
 
@@ -169,7 +169,7 @@ L'utilisateur remplit un formulaire, un calcul est ensuite effectué et les rés
 
 Le brasseur peut ajouter, modifier ou supprimer les stocks.(**Yohann**)
 
-[Code](https://github.com/evandeveer/brasserie/blob/main/brasseur.php#L30)  
+[Code](https://github.com/ymarant/SLAM/blob/main/brasseur.php#L30)  
 
 <img src="https://github.com/user-attachments/assets/53cbfb59-a5ef-4ee5-aa12-e05c0b6d0d23" alt="Gestion MP" width="500"/>
 
